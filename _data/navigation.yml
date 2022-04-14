@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
+  - title: "fab fa-fw fa-instagram"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
-    url: https://blooming-daisy.github.io/about/
-  - title: "Sample Posts"
+    url: /about/
+  - title: "Posts"
     url: /year-archive/
   - title: "Sample Collections"
     url: /collection-archive/
