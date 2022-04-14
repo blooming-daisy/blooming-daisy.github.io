@@ -110,8 +110,8 @@ print s
   - [구글](https://www.google.com/)
 
 2) 주소 직접 표시
-<https://www.google.com/>  
+  - <https://www.google.com/>  
 
 ## 2.10. 이미지 삽입
-![]url(../assets/images/daisy_photo.jpg)
+![](https://unsplash.com/photos/LB3wSllhBq0?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 
