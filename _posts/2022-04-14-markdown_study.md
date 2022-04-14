@@ -117,7 +117,7 @@ print s
 
 2. ![](https://unsplash.com/photos/LB3wSllhBq0?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink){: .align-center}
 
-3. ![데이지사진](https://unsplash.com/photos/LB3wSllhBq0?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink"데이지사진"){: .align-center}
+3. ![데이지사진](https://images.unsplash.com/photo-1600264195762-c10ff160b264?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=424&q=80"데이지사진"){: .align-center}
 
 
 ## 2.11. 표 만들기
