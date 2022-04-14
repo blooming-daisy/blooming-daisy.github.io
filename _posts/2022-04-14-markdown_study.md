@@ -107,11 +107,11 @@ print s
 ## 2.9. 링크
 
 1) 링크 이름 설정하여 표시
-  - [Title](link)
+  - [구글](https://www.google.com/)
 
 2) 주소 직접 표시
-<링크>)()  
+<https://www.google.com/>  
 
 ## 2.10. 이미지 삽입
-![](.../assets/images/daisy_photo.jpg)
+![]url(../assets/images/daisy_photo.jpg)
 
