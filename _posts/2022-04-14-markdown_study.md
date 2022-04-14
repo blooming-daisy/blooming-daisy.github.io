@@ -110,7 +110,7 @@ print s
   - [Title](link)
 
 2) 주소 직접 표시
-<링크>
+<링크>)()  
 
 ## 2.10. 이미지 삽입
 ![](.../assets/images/daisy_photo.jpg)
