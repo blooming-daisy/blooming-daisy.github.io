@@ -113,11 +113,16 @@ print s
   - <https://www.google.com/>  
 
 ## 2.10. 이미지 삽입
-1. ![](https://unsplash.com/photos/LB3wSllhBq0?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
+1. ![](https://images.unsplash.com/photo-1600264195762-c10ff160b264?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=424&q=80/ranurte-LB3wSllhBq0-unsplash.jpg)
 
-2. ![](https://unsplash.com/photos/LB3wSllhBq0?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink){: .align-center}
+2. ![](https://images.unsplash.com/photo-1600264195762-c10ff160b264?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=424&q=80/ranurte-LB3wSllhBq0-unsplash.jpg){: .align-center}
 
-3. ![데이지사진](https://images.unsplash.com/photo-1600264195762-c10ff160b264?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=424&q=80/ranurte-LB3wSllhBq0-unsplash.jpg){: .align-center}
+3. ![데이지사진](https://images.unsplash.com/photo-1600264195762-c10ff160b264?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=424&q=80/ranurte-LB3wSllhBq0-unsplash.jpg"데이지사진"){: .align-center}
+
+사진출처: [Unsplash](https://unsplash.com/photos/LB3wSllhBq0?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
+
+사진 추가를 할 때는,  
+사진 링크를 다운받은 후, 사진 파일명을 뒤에 붙여주어야 한다.
 
 
 ## 2.11. 표 만들기
@@ -134,9 +139,9 @@ print s
 
 |메뉴|가격|개수|
 |:----|:----:|----:|
-|쿠키|1,000원|3개|
-|딸기케이크|9,300원|1개|
-|오레오프라푸치노|5,600원|1개|
+|쿠키|1,000원|마아아아아않이|
+|딸기케이크|9,300원|마아아아아않이|
+|오레오프라푸치노|5,600원|마아아아아않이|
 
 
 
