@@ -57,6 +57,61 @@ enqjsWofh _single underscores_, 세 번째로 **double asterisks**,
   - 라면
     - 사탕
 
-    
 
+## 2.6. 코드 인용
+```
+import pandas as pd
+import numpy as np
+```
+
+## 2.7. 코드 인용 (언어 별 문법 하이라이트)
+
+- 루비
+``` ruby
+gem install bundle
+markdown = Redcarpet.new("Hello World!")
+```
+
+- C
+```c
+int main() {
+  int y = SOME_MACRO_REFERENCE;
+  int x = 5+6;
+  cout << "Hello World!" << x << std::end();
+}
+```
+
+- C++
+```cpp
+int main() {
+  int y = SOME_MACRO_REFERENCE;
+  int x = 5+6;
+  cout << "Hello World!" << x << std::end();
+}
+```
+
+- Python
+```python
+s = 'Python syntax highlighting'
+print s
+```
+
+## 2.8. 수평선
+
+* * *  
+***  
+*****  
+- - -  
+-----------------------  
+
+## 2.9. 링크
+
+1) 링크 이름 설정하여 표시
+  - [Title](link)
+
+2) 주소 직접 표시
+<링크>
+
+## 2.10. 이미지 삽입
+![](.../assets/images/daisy_photo.jpg)
 
