@@ -113,5 +113,19 @@ print s
   - <https://www.google.com/>  
 
 ## 2.10. 이미지 삽입
-![](https://unsplash.com/photos/LB3wSllhBq0?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
+1. ![](https://unsplash.com/photos/LB3wSllhBq0?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
+
+2. ![](https://unsplash.com/photos/LB3wSllhBq0?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink){: .align-center}
+
+3. ![데이지사진](https://unsplash.com/photos/LB3wSllhBq0?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink"데이지사진"){: .align-center}
+
+
+## 2.11. 표 만들기
+|메뉴|가격|개수|
+|:---:|:---:|:---:|
+|쿠키|1,000원|3개|
+|딸기케이크|9,300원|1개|
+|오레오프라푸치노|5,600원|1개|
+
+끝!
 
