@@ -1,9 +1,9 @@
 ---
 title:  "Blog 작성을 위한 Markdown 공부"
 excerpt: "GitHub Blog 작성을 위해 Markdown을 알아보자."
-teaser: /assets/images/sample.jpg
-categories:
-  - Blog
+# teaser: /assets/images/sample.jpg
+
+
 tags:
   - Blog
 last_modified_at: 2022-04-14
