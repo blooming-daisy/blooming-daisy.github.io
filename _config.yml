@@ -111,7 +111,7 @@ analytics:
 # Site Author
 author:
   name             : "Leena Go"
-  avatar           : "/assets/images/profile.jpg"
+             : "/assets/images/profile.jpg"
   bio              : "성장하는 행갱이"
   location         : "Seoul, Korea"
   email            :
