@@ -1,9 +1,9 @@
 ---  
-title: "About Leena's DevBlog"
+title: "Leena의 블로그에 오신 여러분, 환영합니다 :)"
 permalink: /about/
 layout: single
 header:
-  overlay_image: /assets/Images/main-teaser.jpg
+  overlay_image: /assets/images/main-teaser.jpg
   overlay_filter: 0.3
 
 author_profile: true
