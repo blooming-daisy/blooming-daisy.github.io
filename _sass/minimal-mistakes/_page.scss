@@ -69,8 +69,8 @@ body {
 }
 
 .page__title {
-  margin-top: 0;
-  line-height: 1;
+  margin-top: 2;
+  line-height: 2;
 
   a {
     color: $text-color;
@@ -173,8 +173,8 @@ body {
 
   &--overlay {
     position: relative;
-    margin-bottom: 2em;
-    padding: 3em 0;
+    margin-bottom: 0.5em;
+    padding: 1em;
     @include clearfix;
     background-size: cover;
     background-repeat: no-repeat;
@@ -201,8 +201,8 @@ body {
     .page__meta,
     .page__lead,
     .btn {
-      color: #fff;
-      text-shadow: 1px 1px 4px rgba(#000, 0.5);
+      color: rgb(255, 255, 255);
+      text-shadow: 1px 1px 4px rgba(rgb(255, 217, 0), 0.5);
     }
 
     .page__lead {
@@ -211,6 +211,7 @@ body {
 
     .page__title {
       font-size: $type-size-2;
+      position:center;
 
       @include breakpoint($small) {
         font-size: $type-size-1;
