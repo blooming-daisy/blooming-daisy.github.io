@@ -22,9 +22,11 @@ github 블로그 작성을 하게 되면 Markdown을 알아야 한다.
 줄바꿈을 하기 위해서는 라인 끝에 스페이스를 2번  
 표기해야 한다.
 
-여러가지 강조 표시가 존재한다. 첫번째로 *single asterisks*,
-enqjsWofh _single underscores_, 세 번째로 **double asterisks**,  
-네 번째로 __double underscores__,  다섯 번째로 ~~cancle line~~이 있다.
+여러가지 강조 표시가 존재한다.  첫번째로 *single asterisks*,  
+두 번째로 _single underscores_,  
+세 번째로 **double asterisks**,  
+네 번째로 __double underscores__,  
+다섯 번째로 ~~cancle line~~이 있다.
 
 ## 2.2. 글머리 달기
 # H1
