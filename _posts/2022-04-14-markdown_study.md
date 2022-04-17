@@ -3,10 +3,10 @@ title:  "Blog 작성을 위한 Markdown 공부"
 excerpt: "GitHub Blog 작성을 위해 Markdown을 알아보자."
 # teaser: /assets/images/sample.jpg
 
-
 tags:
-  - Blog
-last_modified_at: 2022-04-14
+  - Markdown
+  - test
+# last_modified_at: 2022-04-16
 ---
 
 github 블로그 작성을 하게 되면 Markdown을 알아야 한다.

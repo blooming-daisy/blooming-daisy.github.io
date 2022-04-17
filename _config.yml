@@ -24,9 +24,9 @@ description              : "Growing like sprout"
 url                      : "blooming-daisy.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "blooming-daisy/blooming-daisy.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/sample.jpg"
+teaser                   : "/assets/images/sample1.jpg"
 logo                     : "/assets/images/daisy_for_logo.jpg"
-masthead_title           : "여긴 무엇인고?"
+masthead_title           : "소중한 기록을 남기는 장소"
 future                   : true
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 150
@@ -61,9 +61,9 @@ comments:
 # reCaptcha:
 #   siteKey                :
 #   secret                 :
-# atom_feed:
-#   path                   : # blank (default) uses feed.xml
-#   hide                   : # true, false (default)
+atom_feed:
+  path                   : # blank (default) uses feed.xml
+  hide                   : true # true, false (default)
 
 search                   : "true" # true, false (default)
 search_full_content      : "false" # true, false (default)
