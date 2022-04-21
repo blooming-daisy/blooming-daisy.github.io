@@ -26,7 +26,7 @@ github 블로그 작성을 하게 되면 Markdown을 알아야 한다.
 두 번째로 _single underscores_,  
 세 번째로 **double asterisks**,  
 네 번째로 __double underscores__,  
-다섯 번째로 ~~cancle line~~이 있다.
+다섯 번째로 ~~cancle line~~이 있다.  
 
 ## 2.2. 글머리 달기
 # H1
