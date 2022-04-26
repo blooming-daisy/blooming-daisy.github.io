@@ -1,6 +1,6 @@
 ---
 title:  "github.io 블로그 시작하기"
-excerpt: "GitHub Blog 서비스인 github.io 블로그 시작하기로 했다."
+excerpt: "GitHub Blog 서비스인 github.io 블로그를 정식 오픈해본다!"
 
 
 tags:
@@ -11,12 +11,18 @@ authors: "Leena Go"
 ---
 
 
-GitHub Blog 서비스인 github.io 블로그 시작하기로 했다.
-GitHub Blog 서비스의 이름은 Pages이다.
+GitHub Blog 서비스인 github.io 블로그를 본격적으로 시작해보고자 한다.  
 
-Pages가 다른 블로그 플랫폼 보다 편한 것 같아서 마음에 든다.
-다른 사람들도 같이 많이 사용했으면 좋겠다는 생각이 든다.
+사실 이 블로그 전에, github.io에게 두 차례의 쓴 맛을 보았다.  
+첫 번째는 이 블로그와 같은 형태의 _'minimal mistakes'_ Jekyll 스킨이었고,  
+두 번째는 _'mediumish'_ Jekyll 스킨이었다.  
 
-YFM에서 정의한 제목을 이중 괄호 구문으로 본문에 추가할 수 있다.
-이 글의 제목은 {{ page.title }}이고
-마지막으로 수정된 시간은 {{ page.last_modified_at }}이다.
+맨 처음 개설했을 당시, 너무 많은 파일들과 변경 값의 향연...    
+게다가 그 때 당시에는 IT분야로 발을 들인지 얼마 되지 않았을 때라,  
+정말 정신이 없었고 복잡하게 느껴졌었다.  
+그래서 다음을 기약하고는 쿨하게(?) 보내줬다.  
+
+하지만 업무를 하며 점점 HTML에 눈을 떴고,  
+CSS도 조금 알게 되면서 github.io에 욕심이 생기게 되었다.  
+
+제일 매력적으로 다가온 부분은, **내가 꾸미고싶은대로 꾸밀 수 있다**는 것!
