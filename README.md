@@ -163,6 +163,7 @@ To test the theme, run `bundle exec rake preview` and open your browser at `http
 
 ---
 
+
 ## Credits
 
 ### Creator
