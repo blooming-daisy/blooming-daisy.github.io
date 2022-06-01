@@ -51,12 +51,12 @@
   h5,
   h6 {
     margin-bottom: 0;
-    font-family: $suit;
+    font-family: $gowun;
   }
 
   p,
   li {
-    font-family: $suit;
+    font-family: $gowun;
     font-size: $type-size-6;
     line-height: 1.5;
   }
@@ -174,7 +174,7 @@
   }
 }
 .sidebar .author__name {
-  font-family: $suit;
+  font-family: $gowun;
   font-size: $type-size-5;
 }
 
@@ -191,7 +191,7 @@
   position: relative;
   display: table-cell;
   vertical-align: middle;
-  font-family: $suit;
+  font-family: $gowun;
   z-index: 20;
   cursor: pointer;
 
