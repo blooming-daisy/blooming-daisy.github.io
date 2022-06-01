@@ -17,7 +17,8 @@ $serif: Georgia, Times, serif ;
 $sans-serif: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
   "Helvetica Neue", "Lucida Grande", Arial, sans-serif ;
 $monospace: Monaco, Consolas, "Lucida Console", monospace ;
-$gowun:'Gowun Dodum', sans-serif !default;
+$suit:'suit Dodum', sans-serif !default;
+$suit: "SUIT", sans-serif !default;
 $robo: 'Roboto Mono', monospace !default;
 
 
@@ -32,9 +33,9 @@ $bodoni: "Bodoni MT", serif ;
 $calisto: "Calisto MT", serif ;
 $garamond: Garamond, serif ;
 
-$global-font-family: $gowun !default;
-$header-font-family: $gowun !default;
-$caption-font-family: $gowun !default;
+$global-font-family: $suit !default;
+$header-font-family: $suit !default;
+$caption-font-family: $suit !default;
 
 /* type scale */
 $type-size-1: 2.441em !default; // ~39.056px
